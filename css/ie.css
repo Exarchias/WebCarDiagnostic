@@ -57,3 +57,7 @@
 .modal-body {
   _height:expression(this.scrollHeight > 400 ? "400px" : "auto");
 }
+
+img{
+    _width:expression((documentElement.clientWidth > 940) ? "940px" : "auto" );
+}

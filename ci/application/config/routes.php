@@ -38,6 +38,7 @@
 |
 */
 
+$route['diagnostic/(:any)'] = "diagnostic/id/$1";
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 

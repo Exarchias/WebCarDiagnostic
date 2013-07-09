@@ -77,4 +77,4 @@
 		<a class="btn">系统设定</a>
 		<a class="btn">使用帮助</a>
 	    </p>
-	</div><!-- container -->
+	</div>

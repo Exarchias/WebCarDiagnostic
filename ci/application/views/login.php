@@ -10,4 +10,4 @@
 		<button class="btn btn-large btn-primary" type="submit">Sign in</button>
 	    </form>
 
-	</div><!-- container -->
+	</div>

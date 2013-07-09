@@ -11,7 +11,7 @@
 	<link href="<?=base_url('css/bootstrap.min.css')?>" rel="stylesheet" media="screen">
 	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-		<script src="<?=base_url('assets/js/html5shiv.js')?>"></script>
+	    <script src="<?=base_url('assets/js/html5shiv.js')?>"></script>
 	<![endif]-->
 	<!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="<?=base_url('css/bootstrap-ie6.min.css')?>">
